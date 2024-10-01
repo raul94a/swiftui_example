@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		DF638B2A2CACA50500A7190A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DF638B292CACA50500A7190A /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		DF638AF32CAC966000A7190A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		DF638AE22CAC965F00A7190A /* playaround.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = playaround.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF638AF22CAC966000A7190A /* playaroundTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = playaroundTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF638AFC2CAC966000A7190A /* playaroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = playaroundUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF638B292CACA50500A7190A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -92,6 +97,7 @@
 				DF638AF52CAC966000A7190A /* playaroundTests */,
 				DF638AFF2CAC966000A7190A /* playaroundUITests */,
 				DF638AE32CAC965F00A7190A /* Products */,
+				DF638B292CACA50500A7190A /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF638B2A2CACA50500A7190A /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
